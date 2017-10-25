@@ -24,9 +24,9 @@
 // @grant         GM_getValue
 // @grant         GM_setValue
 // @grant         GM_xmlhttpRequest
-// @version       0.41 RC
+// @version       0.43
 // @require       http://raw.github.com/nindogo/tiny_zip_js/master/tiny_zip.js
-// @downloadURL   http://raw.github.com/nindogo/VK_album_downloader/master/VkAlbumDownloader2.user.js
+// @downloadURL   https://github.com/nindogo/VK_album_downloader/raw/master/VkAlbumDownloader2.user.js
 // ==/UserScript==
 
 if (GM_getValue("switch") === undefined) GM_setValue("switch", "on");
