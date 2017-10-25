@@ -17,15 +17,15 @@
 // USES https://raw.github.com/vuplea/tiny_zip_js
 // ==UserScript==
 // @name          VK album downloader
-// @author        eag1e
+// @author        eag1e and nindogo
 // @description   This script introduces in VK.com album pages the ability to automatically create a .zip of the photos for quick download.
 // @include       http://*vk.com/*
 // @include       https://*vk.com/*
 // @grant         GM_getValue
 // @grant         GM_setValue
 // @grant         GM_xmlhttpRequest
-// @version       0.4 RC
-// @require       http://raw.github.com/vuplea/tiny_zip_js/master/tiny_zip.js
+// @version       0.41 RC
+// @require       http://raw.github.com/nindogo/tiny_zip_js/master/tiny_zip.js
 // @downloadURL   http://raw.github.com/nindogo/VK_album_downloader/master/VkAlbumDownloader2.user.js
 // ==/UserScript==
 
