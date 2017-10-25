@@ -16,7 +16,7 @@
 // THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 // USES https://raw.github.com/vuplea/tiny_zip_js
 // ==UserScript==
-// @name          VK album downloader
+// @name          VK2_album_downloader
 // @author        eag1e and nindogo
 // @description   This script introduces in VK.com album pages the ability to automatically create a .zip of the photos for quick download.
 // @include       http://*vk.com/*
